@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devNavraj
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Vision and Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing, Computer Vision and MERN.
 - 💞️ I’m looking to collaborate on ...
 - 📫 nawarajrai37@gmail.com
 
