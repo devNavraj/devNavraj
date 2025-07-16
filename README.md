@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devNavraj
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Natural Language Processing, Computer Vision and MERN.
+- 👀 I’m interested in Machine Learning, Deep Learning, LLMs
+- 🌱 I’m currently studying Master of IT in AI @ Macquarie University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 nawarajrai37@gmail.com
 
